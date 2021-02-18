@@ -1,6 +1,0 @@
-.class public interface abstract annotation Lcom/android/camera/fragment/mode/IMoreMode$Type;
-.super Ljava/lang/Object;
-.source ""
-
-# interfaces
-.implements Ljava/lang/annotation/Annotation;
